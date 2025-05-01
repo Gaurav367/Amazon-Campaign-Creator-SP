@@ -99,5 +99,4 @@ After entering all your data (starting on row 2), save and close the file.
 - **Customize**: If you want to include more columns (like negative keywords), you can edit the Python script—just follow the same pattern used for the existing columns.
 
 
-Congratulations! You’ve set up a basic, no-code workflow to build Amazon Sponsored Products bulk files from Excel. 🎉
 
